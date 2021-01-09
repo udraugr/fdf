@@ -1,7 +1,7 @@
 ### [RU][1] Описание проекта на русском
-[1]:  "RU"
+[1]: https://github.com/udraugr/fdf/blob/master/README.md#fdf---%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B-%D0%B2%D1%8B%D1%81%D0%BE%D1%82 "RU"
 ### [EN][2] Description of the project in English
-[2]:  "EN"
+[2]: https://github.com/udraugr/fdf/blob/master/README.md#fdf---altitude-map-display "EN"
 
 # FDF - отображение карты высот
 В этом проекте мы знакомимся с компьютерной графикой. Нашей задачей было считать файл с картой высот,
