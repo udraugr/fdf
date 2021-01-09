@@ -6,7 +6,7 @@
 #    By: hharvey <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/11/20 12:13:03 by hharvey           #+#    #+#              #
-#    Updated: 2019/01/18 20:25:15 by udraugr-         ###   ########.fr        #
+#    Updated: 2021/01/09 17:28:49 by udraugr-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -39,7 +39,7 @@ $(NAME): $(OBJECTS)
 	ar rcs libft.a $(OBJECTS)
 
 $(OBJECTS): %.o:%.c
-	gcc $(FLAGS) -c $< -o $@
+	clang $(FLAGS) -c $< -o $@
 
 clean:
 	rm -f $(OBJECTS)

@@ -15,7 +15,7 @@ all: $(NAME)
 $(NAME):
 		make -C libft/
 		make -C minilibx_macos
-		gcc -o $(NAME) -I $(INCL) -I /usr/local/include $(SRC) -L $(LIB) $(FW)
+		clang -o $(NAME) -I $(INCL) -I /usr/local/include $(SRC) -L $(LIB) $(FW)
 
 clean:
 		rm -rf *.o
