@@ -1,9 +1,9 @@
 ### [RU][1] Описание проекта на русском
-[1]: https://github.com/udraugr/fdf/new/master?readme=1#fdf---%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B5 "RU"
+[1]:  "RU"
 ### [EN][2] Description of the project in English
-[2]: https://github.com/udraugr/fdf/new/master?readme=1#fdf---computer-graphics-project "EN"
+[2]:  "EN"
 
-# FDF - проект по компьютерной графике
+# FDF - отображение карты высот
 В этом проекте мы знакомимся с компьютерной графикой. Нашей задачей было считать файл с картой высот,
 проверить его на отсутствие ошибок(например: карта это матрицей NxM) и нарисовать карту высот.
 Проект был выполнен в Школе Программирования 21 (филиал французкой школы "Ecole 42").
@@ -41,7 +41,7 @@
 Этот проект полностью написан в школе программирования 21, и принадлежит ей.
 
 
-#  FDF - computer graphics project
+#  FDF - altitude map display
 In this project we are introduced to computer graphics. Our task was to read the file with a map of heights,
 check it for errors (for example: the map is an NxM matrix) and draw a map of heights.
 The project was done at the School of Programming 21 (a branch of the French school "Ecole 42").
